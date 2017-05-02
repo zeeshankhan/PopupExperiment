@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Bottom Sheet"; ObjectID = "CZL-tW-5oN"; */
+"CZL-tW-5oN.normalTitle" = "Bottom Sheet";
+
+/* Class = "UILabel"; text = "Please confirm your seats"; ObjectID = "TvS-Hx-b0L"; */
+"TvS-Hx-b0L.text" = "Please confirm your seats";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Unc-iM-l6C"; */
+"Unc-iM-l6C.text" = "Label";
+
+/* Class = "UILabel"; text = "Please confirm your seats"; ObjectID = "VbQ-EY-Nye"; */
+"VbQ-EY-Nye.text" = "Please confirm your seats";
+
+/* Class = "UILabel"; text = "AED 24"; ObjectID = "XKq-4k-oBJ"; */
+"XKq-4k-oBJ.text" = "AED 24";
+
+/* Class = "UIButton"; normalTitle = "Feedback Popup"; ObjectID = "rN4-gd-dWS"; */
+"rN4-gd-dWS.normalTitle" = "Feedback Popup";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sv7-vD-1Vk"; */
+"sv7-vD-1Vk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "tdw-NN-6Xa"; */
+"tdw-NN-6Xa.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "yK5-0b-4wL"; */
+"yK5-0b-4wL.normalTitle" = "Done";

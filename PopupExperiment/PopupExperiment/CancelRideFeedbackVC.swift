@@ -30,7 +30,7 @@ class CancelRideFeedbackVC: UIViewController {
     }
 
     @IBAction func closeAction() {
-        self.dismiss(animated: true, completion: nil)
+        dismiss(animated: true, completion: nil)
     }
 }
 
